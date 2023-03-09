@@ -18,7 +18,7 @@ And it is better to be lonely than with anyone".Omar Khayyam
 -->
 
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="HAPPINESS">
 
 <p align="center"> 
 
