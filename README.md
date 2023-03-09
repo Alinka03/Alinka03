@@ -31,7 +31,7 @@ Hello my name Alina Nepyivoda :wave: I'm QA Authomation and Manual Engeener with
   to you
 - :mailbox:How to find me:<div id="badges">
  
-  <a href="https://https://www.linkedin.com/in/alina-nepyivoda/">
+  <a href="https:https://www.linkedin.com/in/alina-nepyivoda/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 #### :hammer_and_wrench: Languages and Tools :
